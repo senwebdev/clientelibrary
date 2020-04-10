@@ -11,7 +11,7 @@
     "start": "npm run dev"
   },
   "dependencies": {
-    "auth0-js": "^9.10.0",
+    "auth0-js": "^9.13.2",
     "axios": "^0.18.0",
     "bootstrap": "^4.1.1",
     "bootstrap-vue": "^2.0.0-rc.11",
